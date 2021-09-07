@@ -7,6 +7,7 @@ Please refer to [ http://www.bom.gov.au/other/disclaimer.shtml ], for disclaimer
 
 Data details:
 ------------
+**Scope**: Australian States Surface air temperature data from BOM (www.bom.gov.au).
 
 **Date Range**: Year 2000 - 2019
 
